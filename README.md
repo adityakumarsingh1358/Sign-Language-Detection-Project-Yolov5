@@ -1,4 +1,18 @@
 # Sign-Language-Detection-Project-Yolov5
+## Author
+Aditya Kumar Singh
+
+## Project Description
+This project is a real-time Sign Language Detection system built using YOLOv5 and Computer Vision.
+It detects hand gestures from live video and classifies sign language gestures with high accuracy.
+
+## Features
+- Real-time sign language detection
+- YOLOv5-based object detection
+- Custom dataset training
+- Extendable to multi-language sign detection
+- Webcam and video input support
+
 
 
 ### 1. Create environment
